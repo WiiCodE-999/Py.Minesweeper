@@ -1,4 +1,4 @@
-#Py.Minesweeper
+# Py.Minesweeper
 For the program to work, you must:
 
 1. Install the Pygame library: pip install pygame
